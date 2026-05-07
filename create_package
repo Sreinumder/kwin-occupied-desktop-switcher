@@ -1,0 +1,3 @@
+#!/bin/bash
+
+zip -r occupied-desktop-switcher occupied-desktop-switcher/*

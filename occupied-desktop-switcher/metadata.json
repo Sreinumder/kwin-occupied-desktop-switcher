@@ -1,0 +1,17 @@
+{
+  "KPlugin": {
+    "Id": "occupied-desktop-switcher",
+    "Name": "Occupied Desktop Switcher",
+    "Description": "Switch only between desktops containing windows",
+    "Authors": [
+      {
+        "Email": "rojgosai02@gmail.com",
+        "Name": "Sreinumder"
+      }
+    ],
+    "Version": "0.1.0",
+    "License": "GPLv3"
+  },
+  "X-Plasma-API": "javascript",
+  "KPackageStructure": "KWin/Script"
+}

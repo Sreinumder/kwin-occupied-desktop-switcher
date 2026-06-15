@@ -1,7 +1,7 @@
 # KWIN OCCUPIED DESKTOP SWITCHER
 
-By Default on kde, You Switch desktop only in chronolgical order regardless of whether they are empty or not.<br>
-Simple kwin script to lets you switch between only the occupied desktops skipping the empty desktops.
+By Default on kde, You switch desktop only in chronolgical order regardless of whether they are empty or not.<br>
+I made a simple kwin script to let you switch between the occupied desktops only skipping the empty ones.
 
 Explanation:
 
